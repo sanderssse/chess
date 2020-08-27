@@ -1,3 +1,3 @@
 # chess
-Javascript chess set
-All rules apply
+Javascript chess set.
+All rules apply.
